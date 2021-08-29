@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+
+#EXTINF:0,|GR| Cosmote GRSport GR1 GRHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/34091
+#EXTINF:0,|GR| Cosmote GRSport GR2 GRHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/34092
+#EXTINF:0,|GR| Cosmote GRSport GR3 GRHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/34093
+#EXTINF:0,|GR| Cosmote GRSport GR4 GRHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/34094
+#EXTINF:0,|GR| Cosmote GRSport GR5 GRHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/34095
+#EXTINF:0,|GR| Cosmote GRSport GR6 GRHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/34096
+#EXTINF:0,|GR| Cosmote GRSport GR7 GRHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/34097
+#EXTINF:0,|GR| Cosmote GRSport GR8 GRHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/34098
+#EXTINF:0,|GR| Eurosport GR1 GRHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/34088
+#EXTINF:0,|GR| EPT GRSports GRFHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/34119
+#EXTINF:0,|GR| OTE GRFox GRSports GRFHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/34089
+#EXTINF:0,|GR| Tilesport TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/34162
+
