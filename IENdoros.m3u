@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,|KSA|iEN Doros 01
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/53759
+#EXTINF:0,|KSA|iEN Doros 02
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/53760
+#EXTINF:0,|KSA|iEN Doros 03
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/53761
+#EXTINF:0,|KSA|iEN Doros 04
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/53762
+#EXTINF:0,|KSA|iEN Doros 05
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/53763
+#EXTINF:0,|KSA|iEN Doros 06
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/53764
+#EXTINF:0,|KSA|iEN Doros 07
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/53765
+#EXTINF:0,|KSA|iEN Doros 08
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/53766
+#EXTINF:0,|KSA|iEN Doros 09
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/53767
+#EXTINF:0,|KSA|iEN Doros 10
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/53768
+#EXTINF:0,|KSA|iEN Doros 11
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/53769
+#EXTINF:0,|KSA|iEN Doros 12
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/53770
+
+
