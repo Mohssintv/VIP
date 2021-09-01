@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,|DSTV| SuperSport 1 FHD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61152
+#EXTINF:0,|DSTV| SuperSport 2 FHD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61153
+#EXTINF:0,|DSTV| SuperSport 3 FHD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61154
+#EXTINF:0,|DSTV| SuperSport 4 FHD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61155
+#EXTINF:0,|DSTV| SuperSport 5 FHD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61156
+#EXTINF:0,|DSTV| SuperSport 6 FHD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61157
+#EXTINF:0,|DSTV| SuperSport 7 FHD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61158
+#EXTINF:0,|DSTV| SuperSport 8 FHD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61159
+#EXTINF:0,|DSTV| SuperSport 9 FHD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61160
+#EXTINF:0,|DSTV| SuperSport 10 FHD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61161
