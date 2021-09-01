@@ -106,3 +106,40 @@ http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/202023
 #EXTINF:0,|NO|Viasat Golf FHD NO [Multi-Audio]
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/202021
+
+#EXTINF:0,|FI| EuroSport 1 FI [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/19604
+#EXTINF:0,|FI| EuroSport 1 FHD FI [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/19605
+#EXTINF:0,|FI| EuroSport 2 FI [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/19603
+#EXTINF:0,|FI| Viasat Urheilu FHD FI
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/19573
+#EXTINF:0,|FI| Viasat Sport Ultra FHD FI [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/19574
+#EXTINF:0,|FI| Viasat Sport Ultra 4K FI [Only On 4K Devices]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/19575
+#EXTINF:0,|FI| Viasat Jalkapallo FHD FI
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/19576
+#EXTINF:0,|FI| Viasat Jkiekko FHD FI
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/19577
+#EXTINF:0,|FI| Viasat Hockey FHD FI [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/19578
+#EXTINF:0,|FI| Liiga TV UHD 4K FI [Only On 4K Devices]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/19595
+#EXTINF:0,|FI| Hero FI [Live During Events Only]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/19600
+#EXTINF:0,|FI| Viasat Golf FHD FI [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/19580
