@@ -16,3 +16,13 @@ http://31.220.41.88:8081/live/fr-beinmax5.stream/playlist.m3u8
 http://31.220.41.88:8081/live/fr-beinmax6.stream/playlist.m3u8
 #EXTINF:0 ,Bein Sport 7 FR
 http://31.220.41.88:8081/live/fr-beinmax7.stream/playlist.m3u8
+
+
+#EXTINF:0 ,RMC Sport 1
+http://stream.tvtap.live:8081/live/fr-sfr1.stream/playlist.m3u8
+#EXTINF:0 ,RMC Sport 2
+http://stream.tvtap.live:8081/live/fr-sfr2.stream/playlist.m3u8
+#EXTINF:0 ,RMC Sport 3
+http://stream.tvtap.live:8081/live/fr-sfr3.stream/playlist.m3u8
+#EXTINF:0 ,RMC Sport 4
+http://stream.tvtap.live:8081/live/fr-sfr5.stream/playlist.m3u8
