@@ -1,0 +1,38 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN PREMIUM 1 LOW
+http://31.220.41.88:8081/live/bein9.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN PREMIUM 2 LOW
+http://31.220.41.88:8081/live/bein12.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN PREMIUM 3 LOW
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Sports 1 LOW
+http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Sports 2 LOW
+http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Sports 3 LOW
+http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Sports 4 LOW
+http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Sports 5 LOW
+http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Sports 6 LOW
+http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports7.qa.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Sports 7 LOW
+http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 1 FR
+http://31.220.41.88:8081/live/fr-beinsport1.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 2 FR
+http://31.220.41.88:8081/live/fr-beinsport2.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 3 FR
+http://31.220.41.88:8081/live/fr-beinsport3.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 4 FR
+http://31.220.41.88:8081/live/fr-beinmax4.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 5 FR
+http://31.220.41.88:8081/live/fr-beinmax5.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 6 FR
+http://31.220.41.88:8081/live/fr-beinmax6.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 7 FR
+http://31.220.41.88:8081/live/fr-beinmax7.stream/playlist.m3u8
