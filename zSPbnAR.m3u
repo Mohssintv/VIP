@@ -1,0 +1,92 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:-1 tvg-logo="" group-title="BeiN_720p" ,beiN_Sports 1 Premium 4K
+http://xcwsnl28.mrnova.online:80/live/60090_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_720p" ,beiN_Sports 2 Premium 4K
+http://xcwsnl28.mrnova.online:80/live/60091_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_720p" ,beiN_Sports 3 Premium 4K
+http://xcwsnl28.mrnova.online:80/live/60092_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_720p" ,beiN_Sports 1 4K
+http://xcwsnl28.mrnova.online:80/live/60093_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_720p" ,beiN_Sports 2 4K
+http://xcwsnl28.mrnova.online:80/live/60094_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_720p" ,beiN_Sports 3 4K
+http://xcwsnl28.mrnova.online:80/live/60095_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_720p" ,beiN_Sports 4 4K
+http://xcwsnl28.mrnova.online:80/live/60096_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_720p" ,beiN_Sports 5 4K
+http://xcwsnl28.mrnova.online:80/live/60097_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_720p" ,beiN_Sports 6 4K
+http://xcwsnl28.mrnova.online:80/live/60098_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_720p" ,beiN_Sports 7 4K
+http://xcwsnl28.mrnova.online:80/live/60099_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+
+
+#EXTINF:-1 tvg-logo="" group-title="BeiN_720p" ,beiN_Sports 1 Premium 720p
+http://xcwsnl28.mrnova.online:80/live/60030_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_720p" ,beiN_Sports 2 Premium 720p
+http://xcwsnl28.mrnova.online:80/live/60031_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_720p" ,beiN_Sports 3 Premium 720p
+http://xcwsnl28.mrnova.online:80/live/60032_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_720p" ,beiN_Sports 1 720p
+http://xcwsnl28.mrnova.online:80/live/60033_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_720p" ,beiN_Sports 2 720p
+http://xcwsnl28.mrnova.online:80/live/60034_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_720p" ,beiN_Sports 3 720p
+http://xcwsnl28.mrnova.online:80/live/60035_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_720p" ,beiN_Sports 4 720p
+http://xcwsnl28.mrnova.online:80/live/60036_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_720p" ,beiN_Sports 5 720p
+http://xcwsnl28.mrnova.online:80/live/60037_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_720p" ,beiN_Sports 6 720p
+http://xcwsnl28.mrnova.online:80/live/60038_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_720p" ,beiN_Sports 7 720p
+http://xcwsnl28.mrnova.online:80/live/60039_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+
+
+#EXTINF:-1 tvg-logo="" group-title="BeiN_480p" ,beiN_Sports 1 Premium 480p
+http://xcwsnl28.mrnova.online:80/live/60020_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_480p" ,beiN_Sports 2 Premium 480p
+http://xcwsnl28.mrnova.online:80/live/60021_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_480p" ,beiN_Sports 3 Premium 480p
+http://xcwsnl28.mrnova.online:80/live/60022_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_480p" ,beiN_Sports 1 480p
+http://xcwsnl28.mrnova.online:80/live/60023_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_480p" ,beiN_Sports 2 480p
+http://xcwsnl28.mrnova.online:80/live/60024_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_480p" ,beiN_Sports 3 480p
+http://xcwsnl28.mrnova.online:80/live/60025_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_480p" ,beiN_Sports 4 480p
+http://xcwsnl28.mrnova.online:80/live/60026_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_480p" ,beiN_Sports 5 480p
+http://xcwsnl28.mrnova.online:80/live/60027_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_480p" ,beiN_Sports 6 480p
+http://xcwsnl28.mrnova.online:80/live/60028_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_480p" ,beiN_Sports 7 480p
+http://xcwsnl28.mrnova.online:80/live/60029_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+
+
+#EXTINF:-1 tvg-logo="" group-title="BeiN_244p",beiN_Sports 1 Premium 244p
+http://xcwsnl28.mrnova.online:80/live/60010_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_244p",beiN_Sports 2 Premium 244p
+http://xcwsnl28.mrnova.online:80/live/60011_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_244p",beiN_Sports 1 Premium 244p
+http://xcwsnl28.mrnova.online:80/live/60012_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_244p" ,beiN_Sports 1 244p
+http://xcwsnl28.mrnova.online:80/live/60013_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_244p" ,beiN_Sports 2 244p
+http://xcwsnl28.mrnova.online:80/live/60014_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_244p" ,beiN_Sports 3 244p
+http://xcwsnl28.mrnova.online:80/live/60015_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_244p" ,beiN_Sports 4 244p
+http://xcwsnl28.mrnova.online:80/live/60016_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_244p" ,beiN_Sports 5 244p
+http://xcwsnl28.mrnova.online:80/live/60017_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_244p" ,beiN_Sports 6 244p
+http://xcwsnl28.mrnova.online:80/live/60018_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="" group-title="BeiN_244p" ,beiN_Sports 7 244p
+http://xcwsnl28.mrnova.online:80/live/60019_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+
+
