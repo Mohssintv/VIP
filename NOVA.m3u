@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",Nova Cinema 1 UHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/52549
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",Nova Cinema 2 UHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/52550
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",Nova Cinema 3 UHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/52551
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",Nova Cinema 4 UHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/52552
