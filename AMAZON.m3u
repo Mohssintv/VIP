@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",Prime Video 1 UHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/225823
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",Prime Video 2 UHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/225824
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",Prime Video 3 UHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/225825
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",Prime Video 4 UHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/225826
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",Amazon Prime Video UHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/225822
