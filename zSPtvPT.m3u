@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:-1 , Sport TV 1 PT
+http://31.220.41.88:8081/live/pt-sporttv1.stream/playlist.m3u8
+#EXTINF:-1 , Sport TV 1 PT
+http://51.15.0.141:88/PT_SPORT_TV_1_HD/index.m3u8
+#EXTINF:-1 , Sport TV 2 PT
+http://31.220.41.88:8081/live/pt-sporttv2.stream/playlist.m3u8
+#EXTINF:-1 , Sport TV 2 PT
+http://51.15.0.141:88/PT_SPORT_TV_2_HD/index.m3u8
+#EXTINF:-1 , Sport TV 3 PT
+http://31.220.41.88:8081/live/pt-sporttv3.stream/playlist.m3u8
+#EXTINF:-1 , Sport TV 3 PT
+http://51.15.0.141:88/PT_SPORT_TV_3_HD/index.m3u8
+#EXTINF:-1 , Sport TV 4 PT
+http://31.220.41.88:8081/live/pt-sporttv4.stream/playlist.m3u8
+#EXTINF:-1 , Sport TV 4 PT
+http://51.15.0.141:88/PT_SPORT_TV_4_HD/index.m3u8
+#EXTINF:-1 , Sport TV 5 PT
+http://31.220.41.88:8081/live/pt-sporttv5.stream/playlist.m3u8
+#EXTINF:-1 , Sport TV 5 PT
+http://51.15.0.141:88/PT_SPORT_TV_5_HD/index.m3u8
