@@ -1,92 +1,156 @@
 #EXTM3U
+
+ياحيوانات بيكفي سرقه
+
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:-1 tvg-logo="" group-title="BeiN_HD" ,beiN_Sports 1 Premium FHD
-http://xcwsnl28.mrnova.online:80/live/60080_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/HEVC_BEIN_SPORTS_8HD-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_HD" ,beiN_Sports 2 Premium FHD
-http://xcwsnl28.mrnova.online:80/live/60081_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/beIN_Sports_Premium_2_4K-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_HD" ,beiN_Sports 3 Premium FHD
-http://xcwsnl28.mrnova.online:80/live/60082_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/beIN_Sports_Premium_3_4K-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_HD" ,beiN_Sports 1 FHD
-http://xcwsnl28.mrnova.online:80/live/60083_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/beIN_Sports_1_4K-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_HD" ,beiN_Sports 2 FHD
-http://xcwsnl28.mrnova.online:80/live/60084_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/beIN_Sports_2_4K-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_HD" ,beiN_Sports 3 FHD
-http://xcwsnl28.mrnova.online:80/live/60085_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/beIN_Sports_3_4K-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_HD" ,beiN_Sports 4 FHD
-http://xcwsnl28.mrnova.online:80/live/60086_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/beIN_Sports_4_4K-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_HD" ,beiN_Sports 5 FHD
-http://xcwsnl28.mrnova.online:80/live/60087_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/beIN_Sports_5_4K-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_HD" ,beiN_Sports 6 FHD
-http://xcwsnl28.mrnova.online:80/live/60088_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/beIN_Sports_6_4K-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_HD" ,beiN_Sports 7 FHD
-http://xcwsnl28.mrnova.online:80/live/60089_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/bein7FHD-ar/tracks-v1a1/mono.m3u8?token=null
 
 
 #EXTINF:-1 tvg-logo="" group-title="BeiN_HD" ,beiN_Sports 1 Premium HD
-http://xcwsnl28.mrnova.online:80/live/60060_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/bein8hd-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_HD" ,beiN_Sports 2 Premium HD
-http://xcwsnl28.mrnova.online:80/live/60061_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/bein9hd-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_HD" ,beiN_Sports 3 Premium HD
-http://xcwsnl28.mrnova.online:80/live/60062_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/bein10hd-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_HD" ,beiN_Sports 1 HD
-http://xcwsnl28.mrnova.online:80/live/60063_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/bein1hd-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_HD" ,beiN_Sports 2 HD
-http://xcwsnl28.mrnova.online:80/live/60064_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/bein2hd-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_HD" ,beiN_Sports 3 HD
-http://xcwsnl28.mrnova.online:80/live/60065_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/bein3hd-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_HD" ,beiN_Sports 4 HD
-http://xcwsnl28.mrnova.online:80/live/60066_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/bein4hd-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_HD" ,beiN_Sports 5 HD
-http://xcwsnl28.mrnova.online:80/live/60067_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/bein5hd-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_HD" ,beiN_Sports 6 HD
-http://xcwsnl28.mrnova.online:80/live/60068_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/bein6hd-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_HD" ,beiN_Sports 7 HD
-http://xcwsnl28.mrnova.online:80/live/60069_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/bein7hd-ar/tracks-v1a1/mono.m3u8?token=null
 
 
 #EXTINF:-1 tvg-logo="" group-title="BeiN_SD" ,beiN_Sports 1 Premium SD
-http://xcwsnl28.mrnova.online:80/live/60030_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/bein8sd-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_SD" ,beiN_Sports 2 Premium SD
-http://xcwsnl28.mrnova.online:80/live/60031_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/bein9sd-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_SD" ,beiN_Sports 3 Premium SD
-http://xcwsnl28.mrnova.online:80/live/60032_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/bein10sd-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_SD" ,beiN_Sports 1 SD
-http://xcwsnl28.mrnova.online:80/live/60033_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/bein1sd-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_SD" ,beiN_Sports 2 SD
-http://xcwsnl28.mrnova.online:80/live/60034_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/bein2sd-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_SD" ,beiN_Sports 3 SD
-http://xcwsnl28.mrnova.online:80/live/60035_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/bein3sd-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_SD" ,beiN_Sports 4 SD
-http://xcwsnl28.mrnova.online:80/live/60036_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/bein4sd-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_SD" ,beiN_Sports 5 SD
-http://xcwsnl28.mrnova.online:80/live/60037_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/bein5sd-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_SD" ,beiN_Sports 6 SD
-http://xcwsnl28.mrnova.online:80/live/60038_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/bein6sd-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_SD" ,beiN_Sports 7 SD
-http://xcwsnl28.mrnova.online:80/live/60039_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://185.180.15.13:2200/EX/bein7sd-ar/tracks-v1a1/mono.m3u8?token=null
 
 
-#EXTINF:-1 tvg-logo="" group-title="BeiN_LOW",beiN_Sports 1 Premium LOW
-http://xcwsnl28.mrnova.online:80/live/60000_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-logo="" group-title="BeiN_LOW",beiN_Sports 2 Premium LOW
-http://xcwsnl28.mrnova.online:80/live/60001_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-logo="" group-title="BeiN_LOW",beiN_Sports 3 Premium LOW
-http://xcwsnl28.mrnova.online:80/live/60002_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-logo="" group-title="BeiN_LOW" ,beiN_Sports 1 LOW
-http://xcwsnl28.mrnova.online:80/live/60003_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-logo="" group-title="BeiN_LOW" ,beiN_Sports 2 LOW
-http://xcwsnl28.mrnova.online:80/live/60004_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-logo="" group-title="BeiN_LOW" ,beiN_Sports 3 LOW
-http://xcwsnl28.mrnova.online:80/live/60005_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-logo="" group-title="BeiN_LOW" ,beiN_Sports 4 LOW
-http://xcwsnl28.mrnova.online:80/live/60006_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-logo="" group-title="BeiN_LOW" ,beiN_Sports 5 LOW
-http://xcwsnl28.mrnova.online:80/live/60007_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-logo="" group-title="BeiN_LOW" ,beiN_Sports 6 LOW
-http://xcwsnl28.mrnova.online:80/live/60008_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-logo="" group-title="BeiN_LOW" ,beiN_Sports 7 LOW
-http://xcwsnl28.mrnova.online:80/live/60009_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:0,beIN Sports 1 Premium HD
+#EXTVLCOPT:network-caching=1000
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/1
+#EXTINF:0,beIN Sport 2 Premium HD
+#EXTVLCOPT:network-caching=1000
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/2
+#EXTINF:0,beIN Sports 3 Premium HD
+#EXTVLCOPT:network-caching=1000
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/3
+#EXTINF:0,beIN Sports 1 HD
+#EXTVLCOPT:network-caching=1000
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/4
+#EXTINF:0,beIN Sports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/5
+#EXTINF:0,beIN Sports 3 HD
+#EXTVLCOPT:network-caching=1000
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/6
+#EXTINF:0,beIN Sports 4 HD
+#EXTVLCOPT:network-caching=1000
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/7
+#EXTINF:0,beIN Sport HD 5
+#EXTVLCOPT:network-caching=1000
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/8
+#EXTINF:0,beIN Sport HD 6
+#EXTVLCOPT:network-caching=1000
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/9
+#EXTINF:0,beIN Sport HD 7
+#EXTVLCOPT:network-caching=1000
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/10
+#EXTINF:0,beIN News
+#EXTVLCOPT:network-caching=1000
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/11
+#EXTINF:0,BEIN SPORTS GLOBAL
+#EXTVLCOPT:network-caching=1000
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/12
+#EXTINF:0,BEIN SPORTS FRA 1
+#EXTVLCOPT:network-caching=1000
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/13
+#EXTINF:0,BEIN SPORTS FRA 2
+#EXTVLCOPT:network-caching=1000
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/14
+#EXTINF:0,BEIN SPORTS FRA 3
+#EXTVLCOPT:network-caching=1000
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/15
+#EXTINF:0,BEIN EXTRA 1
+#EXTVLCOPT:network-caching=1000
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/16
+#EXTINF:0,beIN Sport 1 Premium SD
+#EXTVLCOPT:network-caching=1000
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/18
+#EXTINF:0,beIN Sport 2 Premium SD
+#EXTVLCOPT:network-caching=1000
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/19
+#EXTINF:0,beIN Sport 3 Premium SD
+#EXTVLCOPT:network-caching=1000
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/20
+#EXTINF:0,beIN Sports 1 SD
+#EXTVLCOPT:network-caching=1000
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/21
+#EXTINF:0,beIN Sports 2 SD
+#EXTVLCOPT:network-caching=1000
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/22
+#EXTINF:0,bein Sport 3 SD
+#EXTVLCOPT:network-caching=1000
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/23
+#EXTINF:0,beIN Sport SD 4
+#EXTVLCOPT:network-caching=1000
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/24
+#EXTINF:0,beIN Sport SD 5
+#EXTVLCOPT:network-caching=1000
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/25
+#EXTINF:0,Bein Sports PR 1 Low
+#EXTVLCOPT:network-caching=1000
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/26
+#EXTINF:0,Bein Sports PR 2 Low
+#EXTVLCOPT:network-caching=1000
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/27
+#EXTINF:0,BEIN EXTRA 2
+#EXTVLCOPT:network-caching=1000
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/385
 
 
