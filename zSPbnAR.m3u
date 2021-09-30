@@ -5,6 +5,321 @@
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
 https://i.imgur.com/5Wiki1T.jpg
 
+#EXTINF:0,BEIN SPORTS HD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/6727
+#EXTINF:0,BEIN SPORTS NEWS
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/5221
+#EXTINF:0,BEIN SPORTS 1 PREMIUM FHD	
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/60958
+#EXTINF:0,BEIN SPORTS 2 PREMIUM FHD	
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/28751
+#EXTINF:0,BEIN SPORTS 3 PREMIUM FHD	
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/60959
+#EXTINF:0,BEIN SPORTS 1 FHD	
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/36301
+#EXTINF:0,BEIN SPORTS 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/36302
+#EXTINF:0,BEIN SPORTS 3 FHD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/36300
+#EXTINF:0,BEIN SPORTS 4 FHD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/36299
+#EXTINF:0,BEIN SPORTS 5 FHD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/36298
+#EXTINF:0,BEIN SPORTS 6 FHD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/36297
+#EXTINF:0,BEIN SPORTS 7 FHD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/36296
+#EXTINF:0,BEIN SPORTS 1 ENGLISH FHD	
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/36295
+#EXTINF:0,BEIN SPORTS 2 ENGLISH FHD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/36294
+#EXTINF:0,BEIN SPORTS 3 ENGLISH FHD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/36293
+#EXTINF:0,BEIN SPORTS 1 FRENCH FHD	
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/63499
+#EXTINF:0,BEIN SPORTS 2 FRENCH FHD	
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/63500
+#EXTINF:0,BEIN SPORTS 3 FRENCH FHD	
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/63501
+#EXTINF:0,BEIN SPORTS XTRA 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/135167
+#EXTINF:0,BEIN SPORTS XTRA 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/135168
+#EXTINF:0,=====  BEINSPORT  HD =====
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/5208
+#EXTINF:0,BEIN SPORTS 1 PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/60954
+#EXTINF:0,BEIN SPORTS 2 PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/60955
+#EXTINF:0,BEIN SPORTS 3 PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/60956
+#EXTINF:0,BEIN SPORTS 1
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/5231
+#EXTINF:0,BEIN SPORTS 2
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/5229
+#EXTINF:0,BEIN SPORTS 3
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/5233
+#EXTINF:0,BEIN SPORTS 4
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/5235
+#EXTINF:0,BEIN SPORTS 5
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/5237
+#EXTINF:0,BEIN SPORTS 6
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/5239
+#EXTINF:0,BEIN SPORTS 7
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/5240
+#EXTINF:0,BEIN SPORTS 1 ENGLISH
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/5241
+#EXTINF:0,BEIN SPORTS XTRA 1 HD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/135165
+#EXTINF:0,BEIN SPORTS XTRA 2 HD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/135166
+#EXTINF:0,===== BEINSPORT SD =====	
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/118456
+#EXTINF:0,BEIN SPORTS PREMIUM 1 SD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/60960
+#EXTINF:0,BEIN SPORTS PREMIUM 2 SD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/60961
+#EXTINF:0,BEIN SPORTS PREMIUM 3 SD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/60962
+#EXTINF:0,BEIN SPORTS 1 SD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/60967
+#EXTINF:0,BEIN SPORTS 2 SD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/60970
+#EXTINF:0,BEIN SPORTS 3 SD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/60969
+#EXTINF:0,BEIN SPORTS 4 SD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/60963
+#EXTINF:0,BEIN SPORTS 5 SD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/60964
+#EXTINF:0,BEIN SPORTS 6 SD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/60965
+#EXTINF:0,BEIN SPORTS 7 SD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/60966
+#EXTINF:0,BEIN SPORTS 1 ENGLISH SD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/63503
+#EXTINF:0,BEIN SPORTS 2 ENGLISH SD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/63504
+#EXTINF:0,BEIN SPORTS 3 ENGLISH SD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/63505
+#EXTINF:0,BEIN SPORTS 1 FRENCH SD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/117945
+#EXTINF:0,BEIN SPORTS 2 FRENCH SD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/117946
+#EXTINF:0,BEIN SPORTS 3 FRENCH SD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/117947
+#EXTINF:0,BEIN SPORTS XTRA 1 SD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/117948
+#EXTINF:0,BEIN SPORTS XTRA 2 SD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/117949
+#EXTINF:0,AR: ABU DHABI SPORTS 1 HD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/7629
+#EXTINF:0,AR: ABU DHABI SPORTS 2 HD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/7627
+#EXTINF:0,AL KASS ONE HD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/6807
+#EXTINF:0,AL KASS TWO HD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/6806
+#EXTINF:0,AL KASS FOUR HD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/6804
+#EXTINF:0,===== BEIN MOVIES 4K =====
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/59076
+#EXTINF:0,AR: 4K - BEIN MOVIES 1 HD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/59077
+#EXTINF:0,AR: 4K - BEIN MOVIES 2 HD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/59078
+#EXTINF:0,AR: 4K - BEIN MOVIES 3 HD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/59079
+#EXTINF:0,AR: 4K - BEIN MOVIES 4 HD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/59080
+#EXTINF:0,===== BEIN SERIAL & MOVIES =====
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/59081
+#EXTINF:0,AR: BEIN SERIES 1 HD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/59082
+#EXTINF:0,AR: BEIN SERIES 2 HD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/59083
+#EXTINF:0,AR: BEIN DRAMA 1 HD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/59084
+#EXTINF:0,AR: BEIN AMC HD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/59085
+#EXTINF:0,AR: BEIN FOX MOVIES ACTION HD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/59086
+#EXTINF:0,AR: BEIN BE JUNIOR HD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/59087
+#EXTINF:0,AR: BEIN BOOMERANG HD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/59088
+#EXTINF:0,AR: BEIN GOURMET HD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/59089
+#EXTINF:0,AR: BEIN BARAEM HD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/59090
+#EXTINF:0,AR: BEIN CARTOON NETWORK HD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/59092
+#EXTINF:0,AR: BEIN FATAFEAT
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/59093
+#EXTINF:0,AR: BEIN FOX HD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/59094
+#EXTINF:0,AR: BEIN FOX REWAYAT HD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/59095
+#EXTINF:0,AR: BEIN NAT GEO
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/59097
+#EXTINF:0,AR: BEIN NAT PEOPLE
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/59098
+#EXTINF:0,AR: BEIN NAT GEO WILD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/59099
+#EXTINF:0,AR: BEIN JEEM HD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/59100
+#EXTINF:0,AR: BEIN DISCOVERY LIFE HD
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/59101
+#EXTINF:0,AR: BEIN FOX LIFE
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/65394
+#EXTINF:0,beiN Sports 1 PREMIUM 4K
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/6814
+#EXTINF:0,beiN Sports 2 PREMIUM 4K
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/6823
+#EXTINF:0,beiN Sports 3 PREMIUM 4K
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/6815
+#EXTINF:0,beiN Sports 1 4K
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/6818
+#EXTINF:0,beiN Sports 2 4K
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/6817
+#EXTINF:0,beiN Sports 3 4K
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/6819
+#EXTINF:0,beiN Sports 4 4K
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/6820
+#EXTINF:0,beiN Sports 5 4K
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/6821
+#EXTINF:0,beiN Sports 6 4K
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/6822
+#EXTINF:0,beiN Sports 7 4k
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/14710
+#EXTINF:0,beiN Sports 1 English 4k	
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/63495
+#EXTINF:0,beiN Sports 2 English 4K	
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/63496
+#EXTINF:0,beiN Sports 3 English 4K
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/63497
+#EXTINF:0,beiN Sports 1 French 4K	
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/105256
+#EXTINF:0,beiN Sports 2 French 4K	
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/105257
+#EXTINF:0,beiN Sports 3 French 4K
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/105258
+#EXTINF:0,BEIN SPORTS XTRA 1 4K
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/117761
+#EXTINF:0,BEIN SPORTS XTRA 2 4K
+#EXTVLCOPT:network-caching=1000
+http://4kiptv.vip:25461/AjCs0SgbktGBSBm/pMoxvOOzcZdjvOp/117762
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="BeiN_HD" ,beiN_Sports 1 Premium FHD
 http://185.180.15.13:2200/EX/HEVC_BEIN_SPORTS_8HD-ar/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-logo="" group-title="BeiN_HD" ,beiN_Sports 2 Premium FHD
