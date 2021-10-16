@@ -1,0 +1,70 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3CJ0qCE" group-title="SSC SPORT",SSC SPORT 1
+http://xcchui2.mrnova.online/live/60817_.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3CJ0qCE" group-title="SSC SPORT",SSC Sports 2
+http://xcchui2.mrnova.online/live/60818_.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3CJ0qCE" group-title="SSC SPORT",SSC Sports 3
+http://xcchui2.mrnova.online/live/60819_.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3CJ0qCE" group-title="SSC SPORT",SSC Sports 4
+http://xcchui2.mrnova.online/live/60820_.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3BK1btC" group-title="SSC SPORT",SSC SPORT 5 FHD
+http://xcchui2.mrnova.online/live/60821_.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3h01k4g" group-title="SSC SPORT",SSC SPORT 6 FHD
+http://xcchui2.mrnova.online/live/60822_.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2YAXDvF" group-title="SSC SPORT",SSC SPORT 7 FHD
+http://xcchui2.mrnova.online/live/60823_.m3u8?token=
+
+
+#EXTINF:0,SSC SPORTS HD 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/295622
+#EXTINF:0,SSC SPORTS HD 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/295621
+#EXTINF:0,SSC SPORTS HD 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/295620
+#EXTINF:0,SSC SPORTS HD 4
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/295619
+#EXTINF:0,SSC SPORTS HD 5
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/295618
+#EXTINF:0,SSC SPORTS HD 6
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/295617
+#EXTINF:0,SSC SPORTS HD 7
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/295616
+
+
+#EXTINF:0,SSC SPORTS HD 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/295622
+#EXTINF:0,SSC SPORTS HD 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/295621
+#EXTINF:0,SSC SPORTS HD 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/295620
+#EXTINF:0,SSC SPORTS HD 4
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/295619
+#EXTINF:0,SSC SPORTS HD 5
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/295618
+#EXTINF:0,SSC SPORTS HD 6
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/295617
+#EXTINF:0,SSC SPORTS HD 7
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/295616
+
+
+
+
+
+
