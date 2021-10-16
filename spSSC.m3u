@@ -18,6 +18,15 @@ http://xcchui2.mrnova.online/live/60822_.m3u8?token=
 http://xcchui2.mrnova.online/live/60823_.m3u8?token=
 
 
+#EXTINF:0,وقت المباراة
+https://d2d22g4iea9vu6.cloudfront.net/out/v1/7123ce8071754daa8c264c010e59e397/index.m3u8
+#EXTINF:0,وقت المباراة
+https://d2d22g4iea9vu6.cloudfront.net/out/v1/7123ce8071754daa8c264c010e59e397/index_2.m3u8
+#EXTINF:0,وقت المباراة
+https://a3e72d40b440.us-east-1.playback.live-video.net/api/video/v1/us-east-1.923044267058.channel.imSmhZRbChHJ.m3u8
+#EXTINF:0,وقت المباراة
+https://a3e72d40b440.us-east-1.playback.live-video.net/api/video/v1/us-east-1.923044267058.channel.FHU5FVfVMIdE.m3u8
+
 #EXTINF:0,SSC SPORTS HD 1
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/295622
