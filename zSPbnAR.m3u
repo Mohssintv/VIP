@@ -6,86 +6,118 @@
 https://i.imgur.com/5Wiki1T.jpg
 
 
-#EXTINF:0,beIN Sports 1 Premium HD
-#EXTVLCOPT:network-caching=1000
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/1
-#EXTINF:0,beIN Sport 2 Premium HD
-#EXTVLCOPT:network-caching=1000
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/2
-#EXTINF:0,beIN Sports 3 Premium HD
-#EXTVLCOPT:network-caching=1000
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/3
-#EXTINF:0,beIN Sports 1 HD
-#EXTVLCOPT:network-caching=1000
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/4
-#EXTINF:0,beIN Sports 2 HD
-#EXTVLCOPT:network-caching=1000
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/5
-#EXTINF:0,beIN Sports 3 HD
-#EXTVLCOPT:network-caching=1000
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/6
-#EXTINF:0,beIN Sports 4 HD
-#EXTVLCOPT:network-caching=1000
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/7
-#EXTINF:0,beIN Sport HD 5
-#EXTVLCOPT:network-caching=1000
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/8
-#EXTINF:0,beIN Sport HD 6
-#EXTVLCOPT:network-caching=1000
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/9
-#EXTINF:0,beIN Sport HD 7
-#EXTVLCOPT:network-caching=1000
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/10
-#EXTINF:0,beIN News
-#EXTVLCOPT:network-caching=1000
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/11
-#EXTINF:0,BEIN SPORTS GLOBAL
-#EXTVLCOPT:network-caching=1000
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/12
-#EXTINF:0,BEIN SPORTS FRA 1
-#EXTVLCOPT:network-caching=1000
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/13
-#EXTINF:0,BEIN SPORTS FRA 2
-#EXTVLCOPT:network-caching=1000
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/14
-#EXTINF:0,BEIN SPORTS FRA 3
-#EXTVLCOPT:network-caching=1000
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/15
-#EXTINF:0,BEIN EXTRA 1
-#EXTVLCOPT:network-caching=1000
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/16
-#EXTINF:0,beIN Sport 1 Premium SD
-#EXTVLCOPT:network-caching=1000
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/18
-#EXTINF:0,beIN Sport 2 Premium SD
-#EXTVLCOPT:network-caching=1000
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/19
-#EXTINF:0,beIN Sport 3 Premium SD
-#EXTVLCOPT:network-caching=1000
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/20
-#EXTINF:0,beIN Sports 1 SD
-#EXTVLCOPT:network-caching=1000
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/21
-#EXTINF:0,beIN Sports 2 SD
-#EXTVLCOPT:network-caching=1000
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/22
-#EXTINF:0,bein Sport 3 SD
-#EXTVLCOPT:network-caching=1000
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/23
-#EXTINF:0,beIN Sport SD 4
-#EXTVLCOPT:network-caching=1000
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/24
-#EXTINF:0,beIN Sport SD 5
-#EXTVLCOPT:network-caching=1000
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/25
-#EXTINF:0,Bein Sports PR 1 Low
-#EXTVLCOPT:network-caching=1000
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/26
-#EXTINF:0,Bein Sports PR 2 Low
-#EXTVLCOPT:network-caching=1000
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/27
-#EXTINF:0,BEIN EXTRA 2
-#EXTVLCOPT:network-caching=1000
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/385
 
+#EXTINF:0,beIN SPORTS PREMIUM 1  Full-HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
+http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/1
+#EXTINF:0,beIN SPORTS PREMIUM 2 Full-HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
+http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/2
+#EXTINF:0,beIN SPORTS PREMIUM 3 Full-HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
+http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/3
+#EXTINF:0,beIN SPORTS 1 Full-HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
+http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/4
+#EXTINF:0,beIN SPORTS 2 Full-HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
+http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/5
+#EXTINF:0,beIN SPORTS 3 Full-HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
+http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/6
+#EXTINF:0,beIN SPORTS NBA HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
+http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/7
+#EXTINF:0,beIN SPORTS XTRA 1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
+http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/8
+#EXTINF:0,beIN SPORTS XTRA 2 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
+http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/9
+#EXTINF:0,beIN SPORTS PREMIUM 1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
+http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/10
+#EXTINF:0,beIN SPORTS PREMIUM 2 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
+http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/11
+#EXTINF:0,beIN SPORTS PREMIUM 3 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
+http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/12
+#EXTINF:0,beIN SPORTS 1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
+http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/13
+#EXTINF:0,beIN SPORTS 2 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
+http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/14
+#EXTINF:0,beIN SPORTS 3 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
+http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/15
+#EXTINF:0,beIN SPORTS 4 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
+http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/16
+#EXTINF:0,beIN SPORTS 5 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
+http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/17
+#EXTINF:0,beIN SPORTS 6 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
+http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/18
+#EXTINF:0,beIN SPORTS 7 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
+http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/19
+
+
+#EXTINF:-1,AR: Bein Sport 1HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/6872
+#EXTINF:-1,AR: Bein Sport 2HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/6871
+#EXTINF:-1,AR: Bein Sport 3HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/6870
+#EXTINF:-1,AR: Bein Sport 4HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/6869
+#EXTINF:-1,AR: Bein Sport 5HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/6868
+#EXTINF:-1,AR: Bein Sport 6HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/6867
+#EXTINF:-1,AR: Bein Sport 7HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/6866
+#EXTINF:-1,AR: Bein Sport 8HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/6865
+#EXTINF:-1,AR: Bein Sport 9HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/6864
+#EXTINF:-1,AR: Bein Sport 10HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/6863
+#EXTINF:-1,AR: Bein Sport 11HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/2745
+#EXTINF:-1,AR: Bein Sport 12HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/2746
+#EXTINF:-1,US: Bein Sports USA HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/5391
+#EXTINF:-1,FR: BEINSPORT 1HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/14140
+#EXTINF:-1,FR: BEINSPORT 2HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/347
+#EXTINF:-1,FR: BEINSPORT 3HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/346
+#EXTINF:-1,FR: BEINSPORT MAX 4
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/2515
+#EXTINF:-1,FR: BEINSPORT MAX 5
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/2516
+#EXTINF:-1,FR: BEINSPORT MAX 6
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/2517
+#EXTINF:-1,FR: BEINSPORT MAX 7
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/2518
+#EXTINF:-1,FR: BEINSPORT MAX 8
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/2519
+#EXTINF:-1,FR: BEINSPORT MAX 9
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/2520
+#EXTINF:-1,FR: BEINSPORT MAX 10
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/2521
+#EXTINF:-1,TR: Bein Sport HD1
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/4110
+#EXTINF:-1,TR: Bein Sport HD2
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/4111
+#EXTINF:-1,TR: Bein Sport HD3
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/4112
+#EXTINF:-1,TR: Bein Sport HD4
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/4113
 
