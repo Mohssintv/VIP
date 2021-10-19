@@ -2,12 +2,17 @@
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
 https://i.imgur.com/5Wiki1T.jpg
 
+#EXTINF:0, النصر - الهلال (وقت المباراة)
+https://d8itaqldl2bft.cloudfront.net/out/v1/d3d01bc284854c6ba38d8a0a76a14788/index.m3u8
+#EXTINF:0, النصر - الهلال (وقت المباراة) FHD
+https://d8itaqldl2bft.cloudfront.net/out/v1/d3d01bc284854c6ba38d8a0a76a14788/index_1.m3u8
 #EXTINF:0, النصر - الهلال (وقت المباراة) HD
-https://d2d22g4iea9vu6.cloudfront.net/out/v1/7123ce8071754daa8c264c010e59e397/index.m3u8
-#EXTINF:0, النصر - الهلال (وقت المباراة) HD
-https://d2d22g4iea9vu6.cloudfront.net/out/v1/7123ce8071754daa8c264c010e59e397/index_2.m3u8
+https://d8itaqldl2bft.cloudfront.net/out/v1/d3d01bc284854c6ba38d8a0a76a14788/index_2.m3u8
 #EXTINF:0, النصر - الهلال (وقت المباراة) SD
-https://a3e72d40b440.us-east-1.playback.live-video.net/api/video/v1/us-east-1.923044267058.channel.imSmhZRbChHJ.m3u8
+https://d8itaqldl2bft.cloudfront.net/out/v1/d3d01bc284854c6ba38d8a0a76a14788/index_3.m3u8
+#EXTINF:0, النصر - الهلال (وقت المباراة) LOW
+https://d8itaqldl2bft.cloudfront.net/out/v1/d3d01bc284854c6ba38d8a0a76a14788/index_4.m3u8
+
 
 #EXTINF:0, فهد العتيبي
 https://451095e2c7a4.us-east-1.playback.live-video.net/api/video/v1/us-east-1.612841402457.channel.G1GEcymOKdYT.m3u8
