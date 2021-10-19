@@ -83,6 +83,24 @@ http://xcchui2.mrnova.online/live/60822_.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2YAXDvF" group-title="SSC SPORT",SSC SPORT 7 FHD
 http://xcchui2.mrnova.online/live/60823_.m3u8?token=
 
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red]  السيرفر الرابع [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:-1,VIP AR: SSC 1 HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80206
+#EXTINF:-1,VIP AR: SSC 2 HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80234
+#EXTINF:-1,VIP AR: SSC 3 HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80235
+#EXTINF:-1,VIP AR: SSC 4 HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80236
+#EXTINF:-1,VIP AR: SSC 5 HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80237
+#EXTINF:-1,VIP AR: SSC 6 HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80238
+#EXTINF:-1,VIP AR: SSC 7 HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80239
+
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red] إحتياطي [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
