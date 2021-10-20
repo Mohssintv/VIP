@@ -2,6 +2,27 @@
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
 https://i.imgur.com/5Wiki1T.jpg
 
+#EXTINF:0,ON  Sport
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/3615
+#EXTINF:0,|AR| ONTIME SPORTS
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/236760
+#EXTINF:0,|AR| ONTIME SPORTS2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/236761
+#EXTINF:0,|AR| ONTIME SPORTS3 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/226605
+#EXTINF:0,|AR| ONTIME SPORTS3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/226606
+
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow] تعمل بالـ VPN[/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",ON TIME SPORT SD
 http://xcchui2.mrnova.online/live/60100_.m3u8?token=
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",ON TIME SPORT HD
@@ -19,18 +40,3 @@ http://xcchui2.mrnova.online/live/60106_.m3u8?token=
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",ON TIME SPORT 3 HD
 http://xcchui2.mrnova.online/live/60107_.m3u8?token=
 
-#EXTINF:0,ON  Sport
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/3615
-#EXTINF:0,|AR| ONTIME SPORTS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/236760
-#EXTINF:0,|AR| ONTIME SPORTS2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/236761
-#EXTINF:0,|AR| ONTIME SPORTS3 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/226605
-#EXTINF:0,|AR| ONTIME SPORTS3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/226606
