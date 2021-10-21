@@ -3,23 +3,15 @@
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0, النصر - الهلال (وقت المباراة)
-https://d8itaqldl2bft.cloudfront.net/out/v1/d3d01bc284854c6ba38d8a0a76a14788/index.m3u8
+
 #EXTINF:0, النصر - الهلال (وقت المباراة) FHD
-https://d8itaqldl2bft.cloudfront.net/out/v1/d3d01bc284854c6ba38d8a0a76a14788/index_1.m3u8
+
 #EXTINF:0, النصر - الهلال (وقت المباراة) HD
-https://d8itaqldl2bft.cloudfront.net/out/v1/d3d01bc284854c6ba38d8a0a76a14788/index_2.m3u8
+
 #EXTINF:0, النصر - الهلال (وقت المباراة) SD
-https://d8itaqldl2bft.cloudfront.net/out/v1/d3d01bc284854c6ba38d8a0a76a14788/index_3.m3u8
+
 #EXTINF:0, النصر - الهلال (وقت المباراة) LOW
-https://d8itaqldl2bft.cloudfront.net/out/v1/d3d01bc284854c6ba38d8a0a76a14788/index_4.m3u8
 
-
-#EXTINF:0, فهد العتيبي
-https://451095e2c7a4.us-east-1.playback.live-video.net/api/video/v1/us-east-1.612841402457.channel.G1GEcymOKdYT.m3u8
-#EXTINF:0, AD ASIA 2
-https://5d0e1070b07e.us-east-1.playback.live-video.net/api/video/v1/us-east-1.680672904201.channel.p9Ux9Py6ucXx.m3u8
-#EXTINF:0, AD ASIA 1
-https://451095e2c7a4.us-east-1.playback.live-video.net/api/video/v1/us-east-1.612841402457.channel.JUFukZhjrKMK.m3u8
 
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red] السيرفر الأول[/color]
@@ -56,27 +48,20 @@ http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/435791
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red] السيرفر الثاني[/color]
 https://i.imgur.com/5Wiki1T.jpg
 
-#EXTINF:0,AR | SSC 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
-http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/86
-#EXTINF:0,AR | SSC 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
-http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/87
-#EXTINF:0,AR | SSC 3 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
-http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/88
-#EXTINF:0,AR | SSC 4 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
-http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/89
-#EXTINF:0,AR | SSC 5 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
-http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/90
-#EXTINF:0,AR | SSC 6 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
-http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/91
-#EXTINF:0,AR | SSC 7 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
-http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/92
+#EXTINF:-1,VIP AR: SSC 1 HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80206
+#EXTINF:-1,VIP AR: SSC 2 HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80234
+#EXTINF:-1,VIP AR: SSC 3 HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80235
+#EXTINF:-1,VIP AR: SSC 4 HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80236
+#EXTINF:-1,VIP AR: SSC 5 HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80237
+#EXTINF:-1,VIP AR: SSC 6 HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80238
+#EXTINF:-1,VIP AR: SSC 7 HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80239
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red] VPN السيرفر الثالث [/color]
 https://i.imgur.com/5Wiki1T.jpg
@@ -96,47 +81,5 @@ http://xcchui2.mrnova.online/live/60822_.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2YAXDvF" group-title="SSC SPORT",SSC SPORT 7 FHD
 http://xcchui2.mrnova.online/live/60823_.m3u8?token=
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red]  السيرفر الرابع [/color]
-https://i.imgur.com/5Wiki1T.jpg
-
-#EXTINF:-1,VIP AR: SSC 1 HD
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80206
-#EXTINF:-1,VIP AR: SSC 2 HD
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80234
-#EXTINF:-1,VIP AR: SSC 3 HD
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80235
-#EXTINF:-1,VIP AR: SSC 4 HD
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80236
-#EXTINF:-1,VIP AR: SSC 5 HD
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80237
-#EXTINF:-1,VIP AR: SSC 6 HD
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80238
-#EXTINF:-1,VIP AR: SSC 7 HD
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80239
-
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red] إحتياطي [/color]
-https://i.imgur.com/5Wiki1T.jpg
-
-#EXTINF:0,SSC SPORTS HD 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/295622
-#EXTINF:0,SSC SPORTS HD 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/295621
-#EXTINF:0,SSC SPORTS HD 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/295620
-#EXTINF:0,SSC SPORTS HD 4
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/295619
-#EXTINF:0,SSC SPORTS HD 5
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/295618
-#EXTINF:0,SSC SPORTS HD 6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/295617
-#EXTINF:0,SSC SPORTS HD 7
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/295616
 
 
