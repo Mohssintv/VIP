@@ -2,6 +2,19 @@
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
 https://i.imgur.com/5Wiki1T.jpg
 
+
+#EXTINF:0, ♢  (وقت المباراة)
+https://d4z2w09yv4p2.cloudfront.net/out/v1/d4793510817748ca85bc218c07b43c1f/index.m3u8
+#EXTINF:0, ♢  (وقت المباراة) FHD
+https://d4z2w09yv4p2.cloudfront.net/out/v1/d4793510817748ca85bc218c07b43c1f/index_1.m3u8
+#EXTINF:0, ♢  (وقت المباراة) HD
+https://d4z2w09yv4p2.cloudfront.net/out/v1/d4793510817748ca85bc218c07b43c1f/index_2.m3u8
+#EXTINF:0, ♢  (وقت المباراة) SD
+https://d4z2w09yv4p2.cloudfront.net/out/v1/d4793510817748ca85bc218c07b43c1f/index_3.m3u8
+#EXTINF:0, ♢  (وقت المباراة) LOW
+https://d4z2w09yv4p2.cloudfront.net/out/v1/d4793510817748ca85bc218c07b43c1f/index_4.m3u8
+
+
 #EXTINF:0,ON  Sport
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/3615
