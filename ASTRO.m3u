@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",ASTRO VINMEENT
+http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",CHUAN CIA
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",SONY MOVIES ACTION
+http://51.52.156.22:8888/http/009
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",SHUANG XING
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",TVB 星河台
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",Okey
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",AEC
+http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",Warna
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",TV2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",TV3
+http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",Rtb
+https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",Prima
+http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",Ria
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",Awani
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",ViuTv
+http://61.238.6.49:8000/bysid/99
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",Setanta
+http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",AstroCeria
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",Astro Awani
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",Astro Warna
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",Astro - RIA
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",AstroCNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",Astro Prima Backup
+http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",Astro Ria Backup
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",Astro Warna Backup
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",Astro Ceria Backup
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",Channel U(setAuto/native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10003&key=84797b799ae18d1b 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",SURIA(setAuto/native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10004&key=84797b799ae18d1b 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",Vasantham(setAuto/native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10005&key=84797b799ae18d1b 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",CNA(setAuto/native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10007&key=84797b799ae18d1b 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",TV OKEY(setAuto/native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58012&key=84797b799ae18d1b 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",TV1(setAuto/native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58001&key=84797b799ae18d1b 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",TV2(setAuto/native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58002&key=84797b799ae18d1b 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",TV3(setAuto/native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58003&key=84797b799ae18d1b 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",NTV7(setAuto/native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58005&key=84797b799ae18d1b 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",8TV(setAuto/native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58006&key=84797b799ae18d1b 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",TV9(setAuto/native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58007&key=84797b799ae18d1b 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",AEC(setAuto/native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58025&key=84797b799ae18d1b 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",AOD(setAuto/native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_882&key=84797b799ae18d1b 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",TVB华丽(setAuto/native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_884&key=84797b799ae18d1b 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",全佳(setAuto/native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_885&key=84797b799ae18d1b 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",爱奇艺(setAuto/native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_886&key=84797b799ae18d1b 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",双星(setAuto/native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58027&key=84797b799ae18d1b 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",欢喜台(setAuto/native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58026&key=84797b799ae18d1b 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",小太阳(setAuto/native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58021&key=84797b799ae18d1b 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",ASSP 1(setAuto/native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_601&key=84797b799ae18d1b
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",ASSP 2(setAuto/native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_602&key=84797b799ae18d1b
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",ASSP 3(setAuto/native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_603&key=84797b799ae18d1b
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="ASTRO",ASSP 4(setAuto/native)
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_604&key=84797b799ae18d1b
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="SPORT",ASSP 1
+http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="SPORT",ASSP 2
+http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="SPORT",ASSP 3
+http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="SPORT",ASSP 4
+http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+
