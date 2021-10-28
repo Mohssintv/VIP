@@ -6,6 +6,9 @@ https://i.imgur.com/5Wiki1T.jpg
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red]♢ الحزم ✘ الإتحاد ♢ [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match  بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
 #EXTINF:0, ♢ (وقت المباراة)
 https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index.m3u8
 #EXTINF:0, (وقت المباراة) FHD
@@ -35,18 +38,22 @@ https://d3psd9b1q71k7a.cloudfront.net/out/v1/aeb66dbf26e14517b7f041805f21148e/in
 
 
 
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red]♢ الشباب ✘ الطائي ♢ [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
-
+https://d13pgelaw090u4.cloudfront.net/out/v1/6fc9571369d14d4f8b907e2ddc8411e3/index.m3u8
 #EXTINF:0,بث المباراة 1 FHD
-
+https://d13pgelaw090u4.cloudfront.net/out/v1/6fc9571369d14d4f8b907e2ddc8411e3/index_1.m3u8
 #EXTINF:0,بث المباراة 1 HD
-
+https://d13pgelaw090u4.cloudfront.net/out/v1/6fc9571369d14d4f8b907e2ddc8411e3/index_2.m3u8
 #EXTINF:0,بث المباراة 1 SD
-
+https://d13pgelaw090u4.cloudfront.net/out/v1/6fc9571369d14d4f8b907e2ddc8411e3/index_3.m3u8
 #EXTINF:0,بث المباراة 1 LOW
-
+https://d13pgelaw090u4.cloudfront.net/out/v1/6fc9571369d14d4f8b907e2ddc8411e3/index_4.m3u8
 
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red] السيرفر الأول[/color]
