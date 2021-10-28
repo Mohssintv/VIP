@@ -3,7 +3,7 @@
 https://i.imgur.com/5Wiki1T.jpg
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red]♢ الهلال ✘ الرائد ♢ [/color]
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red]♢ الحزم ✘ الإتحاد ♢ [/color]
 
 #EXTINF:0, ♢ (وقت المباراة)
 https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index.m3u8
@@ -16,7 +16,36 @@ https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_7.m
 #EXTINF:0, (وقت المباراة) LOW
 https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_1.m3u8
 
-#EXTINF:0, ♢ الهلال ✘ الرائد ♢
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://d3psd9b1q71k7a.cloudfront.net/out/v1/aeb66dbf26e14517b7f041805f21148e/index.m3u8
+#EXTINF:0,بث المباراة 1 FHD
+https://d3psd9b1q71k7a.cloudfront.net/out/v1/aeb66dbf26e14517b7f041805f21148e/index_1.m3u8
+#EXTINF:0,بث المباراة 1 HD
+https://d3psd9b1q71k7a.cloudfront.net/out/v1/aeb66dbf26e14517b7f041805f21148e/index_2.m3u8
+#EXTINF:0,بث المباراة 1 SD
+https://d3psd9b1q71k7a.cloudfront.net/out/v1/aeb66dbf26e14517b7f041805f21148e/index_3.m3u8
+#EXTINF:0,بث المباراة 1 LOW
+https://d3psd9b1q71k7a.cloudfront.net/out/v1/aeb66dbf26e14517b7f041805f21148e/index_4.m3u8
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
+
+#EXTINF:0,بث المباراة 1
+
+#EXTINF:0,بث المباراة 1 FHD
+
+#EXTINF:0,بث المباراة 1 HD
+
+#EXTINF:0,بث المباراة 1 SD
+
+#EXTINF:0,بث المباراة 1 LOW
+
 
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red] السيرفر الأول[/color]
