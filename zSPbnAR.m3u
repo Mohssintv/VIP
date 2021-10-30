@@ -1,69 +1,241 @@
 #EXTM3U
 
-ياحيوانات بيكفي سرقه
-
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
 https://i.imgur.com/5Wiki1T.jpg
 
+#EXTINF:-1,beIN Sports News FHD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/44
+#EXTINF:-1,beIN Sports News HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/28939
+#EXTINF:-1,beIN Sports News HEVC
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/22198
+#EXTINF:-1,beIN Sports Global FHD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/43
+#EXTINF:-1,beIN Sports Global HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/28938
+#EXTINF:-1,beIN Sports Global  HEVC
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/22199
+#EXTINF:-1,beIN Sports 4K
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/60708
+#EXTINF:-1,beIN Sports 1 PREMIUM HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/1
+#EXTINF:-1,beIN Sports 1 PREMIUM HD+
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/107
+#EXTINF:-1,beIN Sports 1 PREMIUM HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/108161
+#EXTINF:-1,BEINSPORTS PREMIUM 01 HD++
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/167203
+#EXTINF:-1,beIN Sports 1 PREMIUM 4K
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/114053
+#EXTINF:-1,beIN Sports 1 PREMIUM Ultra 4K
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/3854
+#EXTINF:-1,beIN Sports 1 PREMIUM SD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/2541
+#EXTINF:-1,Bein Sport Premium SD1+
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/151563
+#EXTINF:-1,beIN Sports 2 PREMIUM HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/2
+#EXTINF:-1,beIN Sports 2 PREMIUM HD+
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/108
+#EXTINF:-1,beIN Sports 2 PREMIUM HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/108162
+#EXTINF:-1,BEINSPORTS PREMIUM 02 HD++
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/167202
+#EXTINF:-1,beIN Sports 2 PREMIUM 4K
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/114052
+#EXTINF:-1,beIN Sports 2 PREMIUM Ultra 4K
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/3853
+#EXTINF:-1,beIN Sports 2 PREMIUM SD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/2540
+#EXTINF:-1,Bein Sport Premium SD2+
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/151564
+#EXTINF:-1,beIN Sports 3 PREMIUM HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/3
+#EXTINF:-1,beIN Sports 3 PREMIUM HD+
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/109
+#EXTINF:-1,beIN Sports 3 PREMIUM HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/108163
+#EXTINF:-1,BEINSPORTS PREMIUM 03 HD++
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/167201
+#EXTINF:-1,beIN Sports 3 PREMIUM 4K
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/114051
+#EXTINF:-1,beIN Sports 3 PREMIUM Ultra 4K
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/3852
+#EXTINF:-1,beIN Sports 3 PREMIUM SD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/2539
+#EXTINF:-1,Bein Sport Premium SD3+
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/151565
+#EXTINF:-1,beIN Sports 1 HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/4
+#EXTINF:-1,beIN Sports 1 HD+
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/110
+#EXTINF:-1,beIN Sports 1 HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/108164
+#EXTINF:-1,beIN Sports 1 4K
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/114050
+#EXTINF:-1,beIN Sports 1 Ultra 4K
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/3851
+#EXTINF:-1,beIN Sports 1 SD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/2538
+#EXTINF:-1,Bein Sport SD1+
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/151556
+#EXTINF:-1,beIN Sports 2 HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/5
+#EXTINF:-1,beIN Sports 2 HD+
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/112
+#EXTINF:-1,beIN Sports 2 HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/108165
+#EXTINF:-1,beIN Sports 2 4K
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/114049
+#EXTINF:-1,beIN Sports 2 Ultra 4K
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/3850
+#EXTINF:-1,beIN Sports 2 SD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/10795
+#EXTINF:-1,Bein Sport SD2+
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/151557
+#EXTINF:-1,beIN Sports 3 HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/6
+#EXTINF:-1,beIN Sports 3 HD+
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/113
+#EXTINF:-1,beIN Sports 3 HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/108166
+#EXTINF:-1,beIN Sports 3 4K
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/114048
+#EXTINF:-1,beIN Sports 3 Ultra 4K
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/3849
+#EXTINF:-1,beIN Sports 3 SD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/2536
+#EXTINF:-1,Bein Sport SD3+
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/151558
+#EXTINF:-1,beIN Sports 4HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/7
+#EXTINF:-1,beIN Sports 4 HD+
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/114
+#EXTINF:-1,beIN Sports 4 HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/108167
+#EXTINF:-1,beIN Sports 4 4K
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/114047
+#EXTINF:-1,beIN Sports 4 Ultra 4K
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/3848
+#EXTINF:-1,beIN Sports 4 SD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/2535
+#EXTINF:-1,Bein Sport SD4+
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/151559
+#EXTINF:-1,beIN Sports 5 HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/8
+#EXTINF:-1,beIN Sports 5 HD+
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/115
+#EXTINF:-1,beIN Sports 5 HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/108168
+#EXTINF:-1,beIN Sports 5 4K
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/114046
+#EXTINF:-1,beIN Sports 5 Ultra 4K
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/3847
+#EXTINF:-1,beIN Sports 5 SD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/2534
+#EXTINF:-1,Bein Sport SD5+
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/151560
+#EXTINF:-1,beIN Sports 6 HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/9
+#EXTINF:-1,beIN Sports 6 HD+
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/116
+#EXTINF:-1,beIN Sports 6 HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/108169
+#EXTINF:-1,beIN Sports 6 4K
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/114045
+#EXTINF:-1,beIN Sports 6 Ultra 4K
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/10361
+#EXTINF:-1,beIN Sports 6 SD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/2533
+#EXTINF:-1,Bein Sport SD6+
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/151561
+#EXTINF:-1,beIN Sports 7 HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/10
+#EXTINF:-1,beIN Sports 7 HD+
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/117
+#EXTINF:-1,beIN Sports 7 HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/108170
+#EXTINF:-1,beIN Sports 7 4K
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/114044
+#EXTINF:-1,beIN Sports 7 Ultra 4K
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/10362
+#EXTINF:-1,beIN Sports 7 SD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/2532
+#EXTINF:-1,Bein Sport  SD7+
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/151562
+#EXTINF:-1,beIN Sports XTRA 1 HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/117124
+#EXTINF:-1,beIN Sports XTRA 1 HD+
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/117125
+#EXTINF:-1,beIN Sports XTRA 1 HEVC
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/117123
+#EXTINF:-1,beIN Sports XTRA 1 SD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/117126
+#EXTINF:-1,beIN Sports XTRA 2 HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/117129
+#EXTINF:-1,beIN Sports XTRA 2 HD+
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/117130
+#EXTINF:-1,beIN Sports XTRA 2 HEVC
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/117128
+#EXTINF:-1,beIN Sports XTRA 2 SD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/117131
+#EXTINF:-1,beIN Sports 1 EN FHD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/11
+#EXTINF:-1,beIN Sports 1 EN HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/2531
+#EXTINF:-1,beIN Sports 1 EN Ultra 4K
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/22195
+#EXTINF:-1,beIN SPORTS 1 EN SD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/49727
+#EXTINF:-1,Bein Sport English SD1+
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/151566
+#EXTINF:-1,beIN Sports 2 EN FHD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/12
+#EXTINF:-1,beIN Sports 2 EN HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/10369
+#EXTINF:-1,beIN Sports 2 EN Ultra 4K
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/22196
+#EXTINF:-1,beIN SPORTS 2 EN SD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/49728
+#EXTINF:-1,Bein Sport English SD2+
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/151567
+#EXTINF:-1,beIN Sports 3 EN FHD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/13
+#EXTINF:-1,beIN Sports 3 EN HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/11015
+#EXTINF:-1,beIN Sports 3 EN Ultra 4K
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/22197
+#EXTINF:-1,beIN SPORTS 3 EN SD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/49729
+#EXTINF:-1,Bein Sport English SD3+
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/151568
+#EXTINF:-1,beIN Sports 1 FHD FR
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/14
+#EXTINF:-1,beIN Sports 1 HD FR
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/11016
+#EXTINF:-1,beIN Sports 1 FR 4K
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/149600
+#EXTINF:-1,Bein Sport French SD1+
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/151569
+#EXTINF:-1,beIN Sports 2 FHD FR
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/15
+#EXTINF:-1,beIN Sports 2 HD FR
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/11017
+#EXTINF:-1,beIN Sports 2 FR 4K
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/149601
+#EXTINF:-1,Bein Sport French SD2+
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/151570
+#EXTINF:-1,beIN Sports 3 FHD FR
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/16
+#EXTINF:-1,beIN Sports 3 HD FR
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/11018
+#EXTINF:-1,beIN Sports Nba HD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/3845
+#EXTINF:-1,beIN Sports NBA SD
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/57044
+#EXTINF:-1,beIN Sports NBA 4K
+http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/149602
 
-
-#EXTINF:0,beIN SPORTS PREMIUM 1  Full-HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
-http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/1
-#EXTINF:0,beIN SPORTS PREMIUM 2 Full-HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
-http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/2
-#EXTINF:0,beIN SPORTS PREMIUM 3 Full-HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
-http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/3
-#EXTINF:0,beIN SPORTS 1 Full-HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
-http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/4
-#EXTINF:0,beIN SPORTS 2 Full-HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
-http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/5
-#EXTINF:0,beIN SPORTS 3 Full-HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
-http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/6
-#EXTINF:0,beIN SPORTS NBA HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
-http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/7
-#EXTINF:0,beIN SPORTS XTRA 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
-http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/8
-#EXTINF:0,beIN SPORTS XTRA 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
-http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/9
-#EXTINF:0,beIN SPORTS PREMIUM 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
-http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/10
-#EXTINF:0,beIN SPORTS PREMIUM 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
-http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/11
-#EXTINF:0,beIN SPORTS PREMIUM 3 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
-http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/12
-#EXTINF:0,beIN SPORTS 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
-http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/13
-#EXTINF:0,beIN SPORTS 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
-http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/14
-#EXTINF:0,beIN SPORTS 3 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
-http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/15
-#EXTINF:0,beIN SPORTS 4 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
-http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/16
-#EXTINF:0,beIN SPORTS 5 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
-http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/17
-#EXTINF:0,beIN SPORTS 6 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
-http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/18
-#EXTINF:0,beIN SPORTS 7 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-A525F Build/RP1A.200720.012)
-http://mantech-tv.xyz:8888/Mantech45679/Mangech57585/19
 
 
 #EXTINF:-1,AR: Bein Sport 1HD
