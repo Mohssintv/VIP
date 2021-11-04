@@ -7,7 +7,7 @@ https://i.imgur.com/5Wiki1T.jpg
 https://i.imgur.com/5Wiki1T.jpg
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red]♢ االأهلي✘ الباطن ♢ [/color]
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red]♢ الإتحاد ✘ الفتح ♢ [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match  بث المباراة [/color]
@@ -25,19 +25,23 @@ https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_7.m
 https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_1.m3u8
 
 
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red]♢ الهلال ✘ ضمك ♢ [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
-https://3afc2198ffbc.us-east-1.playback.live-video.net/api/video/v1/us-east-1.191808338412.channel.y3VW482o4Erz.m3u8
+https://d1blpma4i28h0s.cloudfront.net/out/v1/60c4919d255042229082ff3105daeea8/index.m3u8
 #EXTINF:0,بث المباراة 1 FHD
-https://d3psd9b1q71k7a.cloudfront.net/out/v1/aeb66dbf26e14517b7f041805f21148e/index_1.m3u8
+https://d1blpma4i28h0s.cloudfront.net/out/v1/60c4919d255042229082ff3105daeea8/index_1.m3u8
 #EXTINF:0,بث المباراة 1 HD
-https://d3psd9b1q71k7a.cloudfront.net/out/v1/aeb66dbf26e14517b7f041805f21148e/index_2.m3u8
+https://d1blpma4i28h0s.cloudfront.net/out/v1/60c4919d255042229082ff3105daeea8/index_2.m3u8
 #EXTINF:0,بث المباراة 1 SD
-https://d3psd9b1q71k7a.cloudfront.net/out/v1/aeb66dbf26e14517b7f041805f21148e/index_3.m3u8
+https://d1blpma4i28h0s.cloudfront.net/out/v1/60c4919d255042229082ff3105daeea8/index_3.m3u8
 #EXTINF:0,بث المباراة 1 LOW
-https://d3psd9b1q71k7a.cloudfront.net/out/v1/aeb66dbf26e14517b7f041805f21148e/index_4.m3u8
+https://d1blpma4i28h0s.cloudfront.net/out/v1/60c4919d255042229082ff3105daeea8/index_4.m3u8
 
 
 
