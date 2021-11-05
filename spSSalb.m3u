@@ -4,6 +4,16 @@ https://i.imgur.com/5Wiki1T.jpg
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]♦️ Welcome to Adrar TV App[/color]
 https://i.imgur.com/5Wiki1T.jpg
 
+#EXTINF:-1 group-title="LIVE STREAMING",Super Sports 1
+http://93.157.62.180/Supersport1/index.m3u8
+#EXTINF:-1 group-title="LIVE STREAMING",Super Sports 2
+http://93.157.62.180/Supersport2/index.m3u8
+#EXTINF:-1 group-title="LIVE STREAMING",Super Sports 3
+http://93.157.62.180/Supersport3/index.m3u8
+#EXTINF:-1 group-title="LIVE STREAMING",Super Sports 4
+http://93.157.62.180/Supersport4/index.m3u8
+#EXTINF:-1 group-title="LIVE STREAMING",Super Sports 5
+http://93.157.62.180/Supersport5/index.m3u8
 
 #EXTINF:0,ALB -Super Sport News HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
