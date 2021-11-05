@@ -7,6 +7,9 @@ https://i.imgur.com/5Wiki1T.jpg
 https://i.imgur.com/5Wiki1T.jpg
 
 
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red] ♢ الزمالك ✘ الاهلي ♢ [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
 #EXTINF:0, ♢  (وقت المباراة)
 https://d13pgelaw090u4.cloudfront.net/out/v1/6fc9571369d14d4f8b907e2ddc8411e3/index.m3u8
 #EXTINF:0, ♢  (وقت المباراة) FHD
@@ -17,6 +20,7 @@ https://d13pgelaw090u4.cloudfront.net/out/v1/6fc9571369d14d4f8b907e2ddc8411e3/in
 https://d13pgelaw090u4.cloudfront.net/out/v1/6fc9571369d14d4f8b907e2ddc8411e3/index_3.m3u8
 #EXTINF:0, ♢  (وقت المباراة) LOW
 https://d13pgelaw090u4.cloudfront.net/out/v1/6fc9571369d14d4f8b907e2ddc8411e3/index_4.m3u8
+
 
 
 #EXTINF:0,ON  Sport
@@ -35,7 +39,7 @@ http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/226605
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/226606
 
-#EXTM3U
+
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow] تعمل بالـ VPN[/color]
 https://i.imgur.com/5Wiki1T.jpg
 
